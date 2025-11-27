@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Basics of GenAI",
+    "link": "https://docs.google.com/document/d/1eFNvfXvnvg8zaVc7UnCYuoOeiRnccnxJzxsqXaaEkXQ/edit?usp=sharing",
+    "subtopics": [
+      "Foundations of AI & ML",
+      "Understanding GenAI",
+      "LLMs & Fine Tunings, Embeddings",
+      "Tools & Framework, Multimodal GenAI"
+    ]
+  },
+  {
+    "title": "Postgres, Pgadmin4",
+    "link": "https://docs.google.com/document/d/1pD3BrnP6jJ-C0SQjvdDH9o_z3-dgqzY9emVP1GsYhSs/edit?usp=sharing",
+    "subtopics": [
+      "postgres, Pgadmin4 installation",
+      "Understanding Titan DB",
+      "Refresh SQL Queries"
+    ]
+  },
+  {
+    "title": "Docker",
+    "link": "https://docs.google.com/document/d/1HnhcFHjqWiHk4LkF_sZGLQpLyTqckk6zZYMqmtxf_dg/edit?usp=sharing",
+    "subtopics": [
+      "Introduction",
+      "Installation & Basics",
+      "Docker Images",
+      "Dockerfile",
+      "Working With Containers",
+      "Docker Volumes",
+      "Docker Networking",
+      "Docker Compose",
+      "Docker Registry"
+    ]
+  },
+  {
+    "title": "FastAPI",
+    "link": "https://docs.google.com/document/d/1O89BV4dYKDRRb-bW7dL0vIlIBumCMC38KXVjpw7uQcw/edit?usp=sharing",
+    "subtopics": [
+      "Introduction",
+      "Installation & Setup",
+      "Basic API Endpoints",
+      "Pydantic Models",
+      "Dependency Injection",
+      "Path Operations",
+      "Request Handling",
+      "Error Handling",
+      "Authentication & Authorization",
+      "Middleware",
+      "Database Integration",
+      "Response Handling",
+      "Deployment"
+    ]
+  },
+  {
+    "title": "Git, Github",
+    "link": "https://docs.google.com/document/d/13SlpZbMJ52VxuuaGhp9Z7lY60it2GHCgS44sJsr6iWQ/edit?usp=sharing",
+    "subtopics": [
+      "Introduction",
+      "Installation & Setup",
+      "Git Basics",
+      "Working With Files",
+      "Git Ignore",
+      "Working With Tags & Releases",
+      "Branching",
+      "GitHub Basics",
+      "Collaboration Basics",
+      "Undoing Mistakes (Essential Safety Skills)",
+      "Handling Merge Conflicts"
+    ]
+  }
+]
