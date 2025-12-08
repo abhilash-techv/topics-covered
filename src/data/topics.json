@@ -146,7 +146,7 @@
   {
     "title": "Git, Github",
     "link": "https://docs.google.com/document/d/13SlpZbMJ52VxuuaGhp9Z7lY60it2GHCgS44sJsr6iWQ/edit?usp=sharing",
-    "overallStatus": "In Progress",
+    "overallStatus": "Completed",
     "subtopics": [
       {
         "name": "Introduction",
@@ -182,7 +182,7 @@
       },
       {
         "name": "Collaboration Basics",
-        "status": "In Progress"
+        "status": "Completed"
       },
       {
         "name": "Undoing Mistakes (Essential Safety Skills)",
