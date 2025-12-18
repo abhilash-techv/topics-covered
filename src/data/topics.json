@@ -191,6 +191,88 @@
       {
         "name": "Handling Merge Conflicts",
         "status": "Completed"
+      },
+      {
+        "name": "Git Stash, searching & Finding",
+        "status": "Completed"
+      },
+      {
+        "name": "Cherry-pick, reflog",
+        "status": "Completed"
+      },
+      {
+        "name": "Interactice Rebase, Submodules",
+        "status": "Completed"
+      }
+    ]
+  },
+  {
+    "title": "LLM & OLLAMA",
+    "link": "https://docs.google.com/document/d/14-Q2IgtfvNJwmBoZqeULPpvTZovfszjBHF2Vv3Vc3iU/edit?usp=sharing",
+    "overallStatus": "Paused",
+    "subtopics": [
+      {
+        "name": "LLM Fundamentals",
+        "status": "Completed"
+      },
+      {
+        "name": "Model Families",
+        "status": "Completed"
+      },
+      {
+        "name": "LLM Evaluation Methods",
+        "status": "Completed"
+      },
+      {
+        "name": "Ollama Fundamentals",
+        "status": "Completed"
+      },
+      {
+        "name": "Ollama Advanced Usage",
+        "status": "Paused"
+      }
+    ]
+  },
+  {
+    "title": "AWS Glue",
+    "link": "https://docs.google.com/document/d/1eHKCZNTIX_QTt0o6KbOMXg-zNPqDYupqx0NvrNOm9tI/edit?usp=sharing",
+    "overallStatus": "In Progress",
+    "subtopics": [
+      {
+        "name": "Prerequisites - S3, Regions, RDS, IAM",
+        "status": "Completed"
+      },
+      {
+        "name": "Prerequisites - PySpark",
+        "status": "In Progress"
+      },
+      {
+        "name": "Glue Fundamentals",
+        "status": "Not Started"
+      },
+      {
+        "name": "Glue Data Catalog",
+        "status": "Not Started"
+      },
+      {
+        "name": "Glue Crawlers",
+        "status": "Not Started"
+      },
+      {
+        "name": "Glue ETL (Jobs, Scripts, PySpark)",
+        "status": "Not Started"
+      },
+      {
+        "name": "Glue Workflows & Triggers",
+        "status": "Not Started"
+      },
+      {
+        "name": "Glue Studio & Visual ETL",
+        "status": "Not Started"
+      },
+      {
+        "name": "Glue Best Practices",
+        "status": "Not Started"
       }
     ]
   }
