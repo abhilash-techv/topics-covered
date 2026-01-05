@@ -209,7 +209,7 @@
   {
     "title": "LLM & OLLAMA",
     "link": "https://docs.google.com/document/d/14-Q2IgtfvNJwmBoZqeULPpvTZovfszjBHF2Vv3Vc3iU/edit?usp=sharing",
-    "overallStatus": "Paused",
+    "overallStatus": "Completed",
     "subtopics": [
       {
         "name": "LLM Fundamentals",
@@ -229,50 +229,50 @@
       },
       {
         "name": "Ollama Advanced Usage",
-        "status": "Paused"
+        "status": "Completed"
       }
     ]
   },
   {
     "title": "AWS Glue",
     "link": "https://docs.google.com/document/d/1eHKCZNTIX_QTt0o6KbOMXg-zNPqDYupqx0NvrNOm9tI/edit?usp=sharing",
-    "overallStatus": "In Progress",
+    "overallStatus": "Completed",
     "subtopics": [
       {
         "name": "Prerequisites - S3, Regions, RDS, IAM",
         "status": "Completed"
       },
       {
-        "name": "Prerequisites - PySpark",
-        "status": "In Progress"
+        "name": "Prerequisites - PySpark, SQS",
+        "status": "Completed"
       },
       {
         "name": "Glue Fundamentals",
-        "status": "Not Started"
+        "status": "Completed"
       },
       {
         "name": "Glue Data Catalog",
-        "status": "Not Started"
+        "status": "Completed"
       },
       {
         "name": "Glue Crawlers",
-        "status": "Not Started"
+        "status": "Completed"
       },
       {
         "name": "Glue ETL (Jobs, Scripts, PySpark)",
-        "status": "Not Started"
+        "status": "Completed"
       },
       {
         "name": "Glue Workflows & Triggers",
-        "status": "Not Started"
+        "status": "Completed"
       },
       {
         "name": "Glue Studio & Visual ETL",
-        "status": "Not Started"
+        "status": "Completed"
       },
       {
         "name": "Glue Best Practices",
-        "status": "Not Started"
+        "status": "Completed"
       }
     ]
   }
