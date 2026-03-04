@@ -2,6 +2,8 @@
 
 Site built for Abhilash — displays learning topics & subtopics from the workbook.
 
+[Link to the Page](https://abhilash-techv.github.io/topics-covered/)
+
 ## Overview
 
 This is a static React application that visualizes learning topics from an Excel workbook (`Learning Time Frame.xlsx`). It features:
