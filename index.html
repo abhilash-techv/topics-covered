@@ -14,7 +14,10 @@
       mixpanel.init('58c054d7ac6e6db02cc3ce8cf6b731bd', {
         autocapture: true,
         record_sessions_percent: 100,
+        debug: true,
       })
+
+    mixpanel.track('Page Loaded')
 
     </script>
   </head>
