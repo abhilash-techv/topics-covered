@@ -275,5 +275,36 @@
         "status": "Completed"
       }
     ]
+  },
+  {
+    "title": "Qdrant",
+    "link": "https://docs.google.com/document/d/1Gc97w2TCsJDd698NqsmyQ9Kua3qR03b0lgYIqxHfn_8/edit?usp=sharing",
+    "overallStatus": "In Progress",
+    "subtopics": [
+      {
+        "name": "Setup and First Steps",
+        "status": "Completed"
+      },
+      {
+        "name": "Vector Search Fundamentals",
+        "status": "In Progress"
+      },
+      {
+        "name": "Indexing and Performance",
+        "status": "Not Started"
+      },
+      {
+        "name": "Hybrid Search",
+        "status": "Not Started"
+      },
+      {
+        "name": "Optimization and Scale",
+        "status": "Not Started"
+      },
+      {
+        "name": "Advanced APIs",
+        "status": "Not Started"
+      }
+    ]
   }
 ]
