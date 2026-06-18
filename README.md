@@ -126,4 +126,4 @@ git push origin main
 npm run deploy
 ```
 
-Your site will update in 1-2 minutes at: https://abhilash-techversant.github.io/topics-covered/
+Your site will update in 1-2 minutes at: https://abhilash-techv.github.io/topics-covered/
